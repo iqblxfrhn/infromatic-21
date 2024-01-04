@@ -12,7 +12,7 @@ const Dosen = () => {
       </h1>
       <div className="flex flex-col relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61] justify-center items-center">
         <Image
-          src="/udin.jpg"
+          src="/unknown.png"
           alt="foto dosen"
           width={1000}
           height={1000}
@@ -20,10 +20,10 @@ const Dosen = () => {
         />
 
         <div className="relative p-4 justify-center items-center text-center">
-          <h1 className="text-2xl font-semibold text-white">
+          <h1 className="text-4xl font-semibold text-white">
             Amalia Agung Septarina, S.S.T., M.Tr.T.
           </h1>
-          <p className="mt-2 text-gray-300 font-semibold text-xl">
+          <p className="mt-2 text-gray-300 font-semibold text-2xl">
             Multimedia Grafis
           </p>
         </div>
